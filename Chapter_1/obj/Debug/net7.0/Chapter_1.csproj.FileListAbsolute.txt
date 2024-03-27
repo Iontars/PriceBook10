@@ -1,0 +1,15 @@
+J:\GIT\PriceBook10\Chapter_1\bin\Debug\net7.0\Chapter_1.exe
+J:\GIT\PriceBook10\Chapter_1\bin\Debug\net7.0\Chapter_1.deps.json
+J:\GIT\PriceBook10\Chapter_1\bin\Debug\net7.0\Chapter_1.runtimeconfig.json
+J:\GIT\PriceBook10\Chapter_1\bin\Debug\net7.0\Chapter_1.dll
+J:\GIT\PriceBook10\Chapter_1\bin\Debug\net7.0\Chapter_1.pdb
+J:\GIT\PriceBook10\Chapter_1\obj\Debug\net7.0\Chapter_1.csproj.AssemblyReference.cache
+J:\GIT\PriceBook10\Chapter_1\obj\Debug\net7.0\Chapter_1.GeneratedMSBuildEditorConfig.editorconfig
+J:\GIT\PriceBook10\Chapter_1\obj\Debug\net7.0\Chapter_1.AssemblyInfoInputs.cache
+J:\GIT\PriceBook10\Chapter_1\obj\Debug\net7.0\Chapter_1.AssemblyInfo.cs
+J:\GIT\PriceBook10\Chapter_1\obj\Debug\net7.0\Chapter_1.csproj.CoreCompileInputs.cache
+J:\GIT\PriceBook10\Chapter_1\obj\Debug\net7.0\Chapter_1.dll
+J:\GIT\PriceBook10\Chapter_1\obj\Debug\net7.0\refint\Chapter_1.dll
+J:\GIT\PriceBook10\Chapter_1\obj\Debug\net7.0\Chapter_1.pdb
+J:\GIT\PriceBook10\Chapter_1\obj\Debug\net7.0\Chapter_1.genruntimeconfig.cache
+J:\GIT\PriceBook10\Chapter_1\obj\Debug\net7.0\ref\Chapter_1.dll
