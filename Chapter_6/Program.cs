@@ -1,10 +1,10 @@
-﻿namespace Chapter_1
+﻿namespace Chapter_6
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello, World!");
         }
     }
 }
